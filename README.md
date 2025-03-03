@@ -1,1 +1,1 @@
-# IIDT
+# Property rental Management System
